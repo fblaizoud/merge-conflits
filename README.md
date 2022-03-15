@@ -1,4 +1,4 @@
-# merge-conflits
+# merge-conflits REMOTE
 
 HelloWorld
 Im Fred
