@@ -1,4 +1,4 @@
-# merge-conflits
+# merge-conflits LOCAL
 
 HelloWorld
 Im Fred
